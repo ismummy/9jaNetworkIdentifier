@@ -1,0 +1,11 @@
+{
+  "name": "9janetworkidentifier",
+  "version": "1.0.0",
+  "description": "This is something lite that help you identify 9ja network provider using their unique prefix",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ISMAIL, Olalekan",
+  "license": "ISC"
+}
