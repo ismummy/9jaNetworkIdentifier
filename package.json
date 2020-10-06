@@ -4,7 +4,8 @@
   "description": "This is something lite that help you identify 9ja network provider using their unique prefix",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"No test specified\""
+    "test": "echo \"No test specified\"",
+    "start": "node ./src/app.js"
   },
   "author": "ISMAIL, Olalekan",
   "license": "ISC"
