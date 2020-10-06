@@ -1,6 +1,6 @@
 {
   "name": "9janetworkidentifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is something lite that help you identify 9ja network provider using their unique prefix",
   "main": "app.js",
   "scripts": {
